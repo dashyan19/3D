@@ -1,0 +1,26 @@
+﻿  lab1.cpp
+E:\20vv1\3dlab1\lab1\lab1.cpp(16,75): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+E:\20vv1\3dlab1\lab1\lab1.cpp(16,75): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\20vv1\3dlab1\lab1\lab1.cpp(17,81): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+E:\20vv1\3dlab1\lab1\lab1.cpp(17,81): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\20vv1\3dlab1\lab1\lab1.cpp(78,32): warning C4305: инициализация: усечение из "double" в "float"
+E:\20vv1\3dlab1\lab1\lab1.cpp(80,9): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+E:\20vv1\3dlab1\lab1\lab1.cpp(80,9): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\20vv1\3dlab1\lab1\lab1.cpp(80,19): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+E:\20vv1\3dlab1\lab1\lab1.cpp(80,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\20vv1\3dlab1\lab1\lab1.cpp(81,6): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+E:\20vv1\3dlab1\lab1\lab1.cpp(81,6): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\20vv1\3dlab1\lab1\lab1.cpp(81,20): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+E:\20vv1\3dlab1\lab1\lab1.cpp(81,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\20vv1\3dlab1\lab1\lab1.cpp(82,39): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+E:\20vv1\3dlab1\lab1\lab1.cpp(82,39): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\20vv1\3dlab1\lab1\lab1.cpp(82,102): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+E:\20vv1\3dlab1\lab1\lab1.cpp(82,102): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\20vv1\3dlab1\lab1\lab1.cpp(127,53): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\20vv1\3dlab1\lab1\lab1.cpp(128,53): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\20vv1\3dlab1\lab1\lab1.cpp(139,78): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\20vv1\3dlab1\lab1\lab1.cpp(139,59): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\20vv1\3dlab1\lab1\lab1.cpp(140,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\20vv1\3dlab1\lab1\lab1.cpp(140,42): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\20vv1\3dlab1\lab1\lab1.cpp(168,38): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  lab1.vcxproj -> E:\20vv1\3dlab1\lab1\x64\Debug\lab1.exe
